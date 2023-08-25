@@ -11,6 +11,7 @@
     <p>Esto es un parrafo</p>
     <p>Welcome to this beautiful admin panel.</p>
     <p>Esto es un parrafo y aqui aparecera mas contenido en un futuro</p>
+    <p>Que pado</p>
 
 
     <p>Aqui hay otro cambio y otro mas</p>
