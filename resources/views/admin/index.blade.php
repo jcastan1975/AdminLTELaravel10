@@ -13,7 +13,7 @@
     <p>Esto es un parrafo y aqui aparecera mas contenido en un futuro</p>
 
 
-    <p>Aqui hay otro cambio</p>
+    <p>Aqui hay otro cambio y otro mas</p>
 
 
     <p>Este es el parrafo creado desde diseñador1</p>
