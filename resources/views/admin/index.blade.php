@@ -17,4 +17,5 @@
 
 
     <p>Este es el parrafo creado desde diseñador1</p>
+    <p>Agregando otro parrafo</p>
 @stop
