@@ -14,4 +14,7 @@
 
 
     <p>Aqui hay otro cambio</p>
+
+
+    <p>Este es el parrafo creado desde diseñador1</p>
 @stop
