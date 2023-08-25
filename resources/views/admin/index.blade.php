@@ -11,4 +11,9 @@
     <p>Esto es un parrafo</p>
     <p>Welcome to this beautiful admin panel.</p>
     <p>Esto es un parrafo y aqui aparecera mas contenido en un futuro</p>
+
+
+
+
+    <p>Este es el parrafo creado desde diseñador1</p>
 @stop
