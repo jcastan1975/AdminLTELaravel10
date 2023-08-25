@@ -7,7 +7,7 @@
 @stop
 
 @section('content')
-    <p>Welcome to this beautiful admin panel y veremos si podemos hacer un merge.</p>
+    <p>Welcome to this beautiful admin panel y veremos si podemos hacer un merge. Y se agrego texto desde Diseñador2</p>
     <p>Esto es un parrafo</p>
     <p>Welcome to this beautiful admin panel.</p>
     <p>Esto es un parrafo y aqui aparecera mas contenido en un futuro</p>
